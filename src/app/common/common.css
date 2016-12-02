@@ -1,0 +1,12 @@
+*[flex] > img {
+    max-width: 100%;
+}
+
+.wrapper {
+    background: peachpuff;
+}
+
+header > md-content {
+    background: lavender;
+}
+
