@@ -10,3 +10,12 @@ header > md-content {
     background: lavender;
 }
 
+.footer{
+  border: 1px #389555 solid;
+  background-color: #4FCFDB;
+}
+.main{
+  border: 4px #9A4115 solid;
+  background-color: #26943B;
+
+}

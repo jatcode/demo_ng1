@@ -21,5 +21,5 @@ angular
   .run(() => {
    console.log(`Starting  ${app} module`);
  });
-  
+
 //https://julienrenaux.fr/2015/05/05/creating-an-application-with-angularjs-1-4-ecmascript-6-material-design-and-webpack/

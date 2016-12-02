@@ -1,11 +1,14 @@
 class FooterController {
   constructor() {
-    this.text = 'My brand new component!';
     console.log(this);
+  }
+  $onChanges(changes){
+    console.log(changes);
   }
 }
 
 export const footer = {
+
   bindings: {
   	myUser: '<user'
   },
